@@ -10,8 +10,6 @@ An intelligent agent that detects and redacts Personally Identifiable Informatio
 - **Document Analysis**: Supports PDF, images (PNG, JPG, JPEG) using Azure Document Intelligence
 - **Bounding Box Mapping**: Visual location coordinates for redacted content
 - **Comprehensive Reporting**: JSON reports with confidence scores and detailed analysis
-- **Enterprise-ready**: Professional output suitable for business use
-- **Self-contained Module**: Complete organization with source code, tests, and outputs
 
 ## 🚀 Quick Start
 
@@ -187,7 +185,7 @@ By the end of this workshop, you will:
 
 ## 📝 License
 
-This project is provided for educational purposes as part of the Azure AI workshop.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🤝 Contributing
 
