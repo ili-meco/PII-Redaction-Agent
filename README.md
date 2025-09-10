@@ -27,7 +27,7 @@ An intelligent agent that detects and redacts Personally Identifiable Informatio
 1. **Clone the repository**
 ```bash
 git clone <your-repo-url>
-cd pii-redaction-workshop
+cd pii-redaction-agent
 ```
 
 2. **Install dependencies**
