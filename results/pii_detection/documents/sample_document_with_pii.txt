@@ -1,0 +1,29 @@
+CONFIDENTIAL PATIENT RECORD
+
+Patient Information:
+Name: John Michael Smith
+Date of Birth: March 15, 1985
+Social Security Number: 123-45-6789
+Phone Number: (555) 123-4567
+Email: john.smith@email.com
+Address: 123 Main Street, Anytown, NY 12345
+
+Medical Record Number: MRN-456789
+Insurance ID: INS-987654321
+
+Emergency Contact:
+Name: Jane Smith
+Phone: (555) 987-6543
+Email: jane.smith@email.com
+
+Credit Card on File: 4532-1234-5678-9012
+Expiration: 12/25
+
+Notes:
+Patient visited on 2024-01-15 for routine checkup.
+Next appointment scheduled for 2024-07-15.
+
+IP Address of last portal access: 192.168.1.100
+Driver License: NY-123456789
+
+This document contains sensitive personal information that should be protected.

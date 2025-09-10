@@ -1,0 +1,18 @@
+# Core dependencies for PII Redaction Workshop
+requests>=2.31.0
+azure-cognitiveservices-speech>=1.32.0
+
+# Data processing and utilities
+pathlib>=1.0.1
+
+# Note: Python 3.8+ required
+# The following packages are included in Python standard library:
+# - json
+# - os
+# - sys
+# - time
+# - re
+# - argparse
+# - typing
+# - dataclasses
+# - enum
